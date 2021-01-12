@@ -6,9 +6,35 @@
     border: 0;
 }
 .categories img {
-    width: 120px;
+    width: 100px;
 }
 .panda-slide .carousel-item {
     background-color: #FCEAE8;
     border-radius: 0.5em;
+}
+.button-carousel {
+    background-color: #FF297D;
+    padding: 5px 15px;
+}
+.cat-1 {
+    padding: 10px 30px;
+    background-color: orange;
+    border-radius: 10px;
+}
+.cat-2 {
+    padding: 10px 30px;
+    background-color: #DA70D6;
+    border-radius: 10px;
+}
+.cat-3 {
+    padding: 10px 30px;
+    background-color: #0000FF;
+    border-radius: 10px;
+}
+.footer-custom {
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.submit-btn {
+    background-color: #FF297D;
 }
